@@ -1,5 +1,6 @@
 {
-  "Food":
+  "Food": 
+  [
      {
         "id":"01",
         "TruckName": "HotDog",
@@ -11,14 +12,15 @@
         "id":"02",
         "TruckName": "Burger",
         "Location": "Tehran-West",
-        "Owner": "Eshmit"
+        "Owner": "Eshmit",
         "Picture":"https://upload.wikimedia.org/wikipedia/commons/6/68/Chinese-food_truck_in_Noum%C3%A9a%2C_New_Caledonia%2C_2011.jpg"
      },
      {
         "id":"02",
         "TruckName": "Kebab",
         "Location": "Tehran-East",
-        "Owner": "Ali"
+        "Owner": "Ali",
         "Picture" : "https://cdn2.lamag.com/wp-content/uploads/sites/6/2017/03/foodtruck.jpg"
      }
-}
+  ]
+} 
