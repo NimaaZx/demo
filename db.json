@@ -1,5 +1,5 @@
 {
-  "Food": [ 
+  "Food":
      {
         "id":"01",
         "TruckName": "HotDog",
@@ -21,5 +21,4 @@
         "Owner": "Ali"
         "Picture" : "https://cdn2.lamag.com/wp-content/uploads/sites/6/2017/03/foodtruck.jpg"
      }
-  ]
 }
