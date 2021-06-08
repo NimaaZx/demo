@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "CategoryList":[
+  "CategoryList":[  "CategoryList": [
   {
       "ID": "1",
       "Name": "فست فود",
@@ -49,4 +49,5 @@
   "offer":"0"
     }
   ]
+]
 }
