@@ -10,5 +10,43 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "CategoryList":[
+  {
+      "ID": "1",
+      "Name": "فست فود",
+      "Img": "https://uupload.ir/files/qc7b_pizza.png",
+  "offer":"7"
+    },    
+{
+      "ID": "2",
+      "Name": "رستوران ایرانی",
+      "Img": "https://uupload.ir/files/hbal_kebab.png",
+  "offer":"2"
+    },
+    {
+      "ID": "3",
+      "Name": "کافه",
+      "Img": "https://uupload.ir/files/ueo_coffe.png",
+  "offer":"0"
+    },
+    {
+      "ID": "4",
+      "Name": "رستوران گیاهی",
+      "Img": "https://uupload.ir/files/bil2_vegetfood.png",
+   "offer":"0"
+    },
+    {
+      "ID": "5",
+      "Name": "رستوران ایتالیایی",
+      "Img": "https://uupload.ir/files/lrr8_italianfood.png",
+  "offer":"6"
+    },
+    {
+      "ID": "6",
+      "Name": "برگر و ساندویچ",
+      "Img": "https://uupload.ir/files/p3s_sandwich.png",
+  "offer":"0"
+    }
+  ]
 }
